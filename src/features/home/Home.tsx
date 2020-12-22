@@ -7,7 +7,8 @@ const Home: FC = () => {
   return (
     <div className="two-cols">
       <div className="left">
-        <Diaries />
+        
+        <Diaries/>
       </div>
       <div className="right">
         <Editor />
